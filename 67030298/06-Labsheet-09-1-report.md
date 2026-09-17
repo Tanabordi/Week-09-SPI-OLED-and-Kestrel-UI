@@ -8,7 +8,7 @@
 ### กิจกรรมที่ 1.2 ปลุกจอให้ตื่นด้วย Magic Sequence (Proof-of-Life)
 **รูปภาพผลการทดลอง**
 
-
+<img width="884" height="688" alt="9 1 2" src="https://github.com/user-attachments/assets/002408a0-7879-4e0b-bc54-648d6b2fd1c8" />
 
 #### Log ผลการทดลอง 1.2
 ```text
@@ -70,7 +70,7 @@ I (302) main_task: Returned from app_main()
 ### กิจกรรมที่ 1.3 การเขียนเอนจินพิกเซลบน 1KB Framebuffer (Bitwise Canvas)
 **รูปภาพผลการทดลอง**
 
-
+<img width="942" height="722" alt="9 1 3" src="https://github.com/user-attachments/assets/80101b7a-1186-4577-805f-4d43b7a63b3c" />
 
 #### Log ผลการทดลอง 1.3
 ```text
@@ -130,7 +130,7 @@ I (1802) main_task: Returned from app_main()
 ### กิจกรรมที่ 1.4 สร้างตัวอักษรและพิมพ์ "Hello World"
 **รูปภาพผลการทดลอง**
 
-
+<img width="2925" height="1950" alt="9 1 4" src="https://github.com/user-attachments/assets/d281f76c-350f-42b7-85ec-3a3190cff12a" />
 
 #### Log ผลการทดลอง 1.4
 ```text
